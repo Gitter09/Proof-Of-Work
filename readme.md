@@ -19,13 +19,15 @@ This is a judgment exercise.
 ---
 
 ## Repository Structure
+```text
 Proof_Of_Work/
 ├── artifacts/
 │   └── GE_Aerospace_IC.tex        # Final IC memo (LaTeX)
 ├── charter/
 │   └── project_charter.md         # Governing principles and constraints
 └── context/
-└── GE_Aerospace_IC_Context.md # Artifact-specific context capsule
+    └── GE_Aerospace_IC_Context.md # Artifact-specific context capsule
+```
 
 - **artifacts/**  
   Final deliverables intended to reflect IC-grade communication.
